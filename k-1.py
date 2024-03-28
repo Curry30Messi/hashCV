@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 from sklearn.cluster import KMeans
 import pandas as pd
 from sklearn.decomposition import PCA
-
+# B2
 # 从Excel读取数据
 df = pd.read_excel('data.xlsx')
 
