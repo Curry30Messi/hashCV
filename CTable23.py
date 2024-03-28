@@ -31,7 +31,7 @@ def sort_bases(sequence):
 
     return sorted_result_str, count_str
 
-
+# software homework
 def process_table3():
     workbook1 = xlrd.open_workbook("NewSNP.xls")
     sheet1 = workbook1.sheet_by_index(0)
